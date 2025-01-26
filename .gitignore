@@ -1,0 +1,41 @@
+# IDE-specific files
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Debug/
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.app
+*.gch
+*.pch
+*.pdb
+
+# Generated files
+*.d
+*.ilk
+*.sbr
+*.suo
+*.user
+*.ncb
+*.sdf
+*.bsc
+*.idb
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+*.log
+*.aux
+*.dvi
+*.toc
